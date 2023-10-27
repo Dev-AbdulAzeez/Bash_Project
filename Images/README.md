@@ -203,8 +203,7 @@ This script defines the source directory and backup directory paths. It then cre
 
 + step 2: Copy and paste the code block below into the file.
 
-
-
+![Alt text](backup.png)
 
 This script is essentially creating a backup of a source directory. Let's break down what each part of the script is doing:
 
